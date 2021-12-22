@@ -53,3 +53,39 @@ cd ..
 ```sh
 ls -la
 ```
+
+### Para saber lo que está pasando en el WD 
+Comparar el WD con el último commit
+
+```sh
+git status
+```
+
+### Paso del Working Directory (WD) al Index (staged)
+**IMPORTANTE:** Cuidado es case sensitive
+
+```sh
+git add <nombreArchivo> 
+```
+
+Ej:
+
+```sh
+git add README.md 
+```
+### Pasar del WD al INDEX más de un archivo
+```sh
+git add .
+```
+
+
+### Para pasar del INDEX al REPOSITORIO LOCAL
+
+```sh
+git commit -m <mensaje>
+```
+Ej:
+
+```sh
+git commit -m "Agrego el archivo README.md"
+```
