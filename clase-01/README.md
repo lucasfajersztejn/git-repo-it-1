@@ -16,11 +16,13 @@ git --version
 #### Configuro el usuario 
 
 ```sh
+git config --global user.name "Maxi"
 git config user.name "Maxi"
 ```
 
 #### Configuro el mail 
 ```sh
+git config --global user.email "mlapeducacionit@gmail.com"
 git config user.email "mlapeducacionit@gmail.com"
 ```
 
@@ -28,7 +30,6 @@ git config user.email "mlapeducacionit@gmail.com"
 ```sh
 git config --get-regexp user
 ```
-
 ## Comando de consola
 
 ### Limpio la consola
