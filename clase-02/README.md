@@ -32,3 +32,8 @@ git log -2 # cantidad de commits que va a mostrar el git log
 ```sh
 git log --oneline --decorate --all --graph
 ```
+
+GIT IGNORE
+Sirve para ignorar archivos que no quiero seguir.
+
+Creo el archivo **.gitignore** en el directorio raíz y dentro coloco el nombre del arhivo o la carpeta que no quiero seguir. 
