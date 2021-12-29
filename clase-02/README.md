@@ -43,3 +43,5 @@ Creo el archivo **.gitignore** en el directorio raíz y dentro coloco el nombre 
 Me permite seguir una carpeta vacia.
 
 Creo un archivo llamado **.gitkeep** que lo hace es tener en cuenta la carpeta vacia
+
+### REMOTE
