@@ -26,8 +26,17 @@ git switch <nombreRama>
 
 Fast-Fodward (No hay ningun cambio que se solape con lo que esta en la otra rama)
 
-Agrego cosas que quiero tener en consideración.
+Fast-Fodward - Unión automáticas (No hay ningun cambio que se solape con lo que esta en la otra rama)
+
+Recursiva -  Uniones automáticas (No hay colisiones de cambios)
+
+Manual - Conflictos (ocure cuando hay modificaciones en las mismas líneas)
+
+### TAREAS: Agrego cosas que quiero tener en consideración.
 
 * Tener en cuenta subir una rama al remoto
 * Ver Clone
 * Ver Fork
+
+
+
