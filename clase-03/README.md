@@ -14,6 +14,8 @@ git branch
 git branch <nombreRama>
 ```
 
+## Acá agrego algo que nada que ver pero esta en clase03
+
 ### Cambio entre ramas
 
 ```sh
@@ -38,5 +40,8 @@ Manual - Conflictos (ocure cuando hay modificaciones en las mismas líneas)
 * Ver Clone
 * Ver Fork
 
+# Esto es algo que esta en clase03, lo voy a necesiar para mostar el merge con conflicto
 
+
+# Esto otro también pertenece a la rama clase03
 
