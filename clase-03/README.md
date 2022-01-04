@@ -32,11 +32,17 @@ Recursiva -  Uniones automáticas (No hay colisiones de cambios)
 
 Manual - Conflictos (ocure cuando hay modificaciones en las mismas líneas)
 
+### Abortar Merge
+
+```sh
+git merge --abort
+```
+
 ### TAREAS: Agrego cosas que quiero tener en consideración.
 
 * Tener en cuenta subir una rama al remoto
 * Ver Clone
 * Ver Fork
 
-
+### Agrego algo para luego hacer un merge con conflicto
 
