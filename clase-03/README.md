@@ -37,12 +37,10 @@ Manual - Conflictos (ocure cuando hay modificaciones en las mismas líneas)
 ```sh
 git merge --abort
 ```
-
 ### TAREAS: Agrego cosas que quiero tener en consideración.
 
 * Tener en cuenta subir una rama al remoto
 * Ver Clone
 * Ver Fork
 
-### Agrego algo para luego hacer un merge con conflicto
 
