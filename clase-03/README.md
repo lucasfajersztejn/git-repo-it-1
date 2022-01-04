@@ -43,4 +43,24 @@ git merge --abort
 * Ver Clone
 * Ver Fork
 
+## ALIAS
 
+### ¿Cómo creo un alias?
+
+```sh
+git config alias.lg "log --oneline --decorate --all --graph"
+git config alias.l "log --oneline"
+git config alias.s "status --short"
+```
+
+### Para editar el archivo de configuración de GIT
+
+```sh
+git config -e
+```
+
+### Para eliminar un alias
+
+```sh
+git config --unset alias.s
+```
